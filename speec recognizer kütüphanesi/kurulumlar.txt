@@ -1,0 +1,9 @@
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+yukarıdaki linkten pyaudio'nun python sürümüne göre indirmesini yapmamız gerekiyor
+pyaudio dosyasını indirdikten sonra indirilen dosyayı çalışma dizininie atıp "pip install dosya_adı" yazmamız gerekiyor
+-----------------------
+"pip install SpeechRecognition" recognizer kütüphanesinin kurulumu için gerekli
+"pip install playsound" kütüphanesi yüklenecek
+"pip install gTTS" kütüphanesinin yüklenmesi
+#playsound'un 1.2.2 versiyonunu indirmeniz gerekiyor
+------------------------
